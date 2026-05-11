@@ -1,3 +1,4 @@
+// Ten kod będzie zmieniany
 #include <iostream>
 #include <string>
 
